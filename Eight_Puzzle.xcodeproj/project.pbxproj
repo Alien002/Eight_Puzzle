@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		40779DC6237141B600BFD415 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		40779DC7237141C900BFD415 /* Eight_Puzzle.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Eight_Puzzle.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		406F36DC237140FC00263CC6 = {
+			isa = PBXGroup;
+			children = (
+				40779DC7237141C900BFD415 /* Eight_Puzzle.py */,
+				40779DC6237141B600BFD415 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		406F36DD237140FC00263CC6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1110;
+			};
+			buildConfigurationList = 406F36E0237140FC00263CC6 /* Build configuration list for PBXProject "Eight_Puzzle" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 406F36DC237140FC00263CC6;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		406F36E1237140FC00263CC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		406F36E2237140FC00263CC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		406F36E0237140FC00263CC6 /* Build configuration list for PBXProject "Eight_Puzzle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				406F36E1237140FC00263CC6 /* Debug */,
+				406F36E2237140FC00263CC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 406F36DD237140FC00263CC6 /* Project object */;
+}
